@@ -15,7 +15,7 @@ Why does this file exist, and why not put this in __main__?
   Also see (1) from http://click.pocoo.org/5/setuptools/#setuptools-integration
 """
 import sys
-
+from data.models import ServerService
 
 def main(argv=sys.argv):
     """
@@ -27,6 +27,6 @@ def main(argv=sys.argv):
 
     Does stuff.
     """
-
-    print(argv)
+    s = ServerService('http', '127.0.0.1', '443')
+    s.show()
     return 0
