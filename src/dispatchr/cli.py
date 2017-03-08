@@ -28,5 +28,5 @@ def main(argv=sys.argv):
     Does stuff.
     """
     s = ServerService('http', '127.0.0.1', '443')
-    s.show()
+    s.to_string()
     return 0

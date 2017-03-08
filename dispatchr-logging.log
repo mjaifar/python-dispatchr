@@ -1,0 +1,16 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 111-742-520
+INFO:root:http://127.0.0.1:8081
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2017 15:13:39] "GET /1 HTTP/1.1" 200 -
+INFO:root:http://127.0.0.1:8081
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2017 15:13:42] "GET /1 HTTP/1.1" 200 -
+INFO:root:http://127.0.0.1:8081
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2017 15:13:44] "GET /1 HTTP/1.1" 200 -
+INFO:root:http://127.0.0.1:8081
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2017 15:13:46] "GET /1 HTTP/1.1" 200 -
+INFO:root:http://127.0.0.1:8081
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2017 15:13:48] "GET /1 HTTP/1.1" 200 -
+INFO:root:http://127.0.0.1:8081
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2017 15:13:51] "GET /1 HTTP/1.1" 200 -
